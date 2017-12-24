@@ -24,5 +24,5 @@ Combining solutions from the previous Bandit exercises, we can see consolidate b
 ./-file08: data 
 ./-file09: data 
 
-`cat ./-file07` 
+`cat ./-file07`  
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh 
